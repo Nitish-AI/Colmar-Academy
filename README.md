@@ -3,6 +3,8 @@
 Colmar Academy is a fully responsive educational website project inspired by a fictional learning platform. This webpage showcases various sections including course offerings, thesis presentations, and general academy information, designed with clean UI and optimized for both desktop and mobile views.
 
 ---
+## Live link
+![Click here-> ](https://nitish-ai.github.io/Colmar-Academy/)
 
 ## 📁 Project Structure
 
