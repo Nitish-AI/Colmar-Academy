@@ -4,7 +4,7 @@ Colmar Academy is a fully responsive educational website project inspired by a f
 
 ---
 ## Live link
-![Click here-> ](https://nitish-ai.github.io/Colmar-Academy/)
+![Click here ](https://nitish-ai.github.io/Colmar-Academy/)
 
 ## 📁 Project Structure
 
